@@ -6,4 +6,6 @@ Alongside application development, I deploy and manage my own environments, whic
 
 My long-term goal is to work in software engineering roles that intersect backend development, cloud infrastructure, and systems design. I’m especially interested in scalable backend systems, DevOps workflows, distributed systems, and infrastructure automation. I aim to contribute to teams where I can help design resilient systems, improve performance, and ship software that has real-world impact.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
